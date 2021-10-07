@@ -207,6 +207,10 @@ header .list-items, header .menu {
     margin-top: 20px;
 }
 
+.titleText {
+    border-bottom: 1px solid #122a57;
+}
+
 footer {
     display: flex;
     justify-content: space-around;

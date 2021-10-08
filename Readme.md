@@ -20,4 +20,4 @@ Fez isso:
 
 Sinta-se livre de adicionar e refazer qualquer coisas, mesmo apartir deste repositório (se não quiser começar o seu), toda ajuda ou configuração é bem vinda.
 
-#### att: Julino, seu aspirante à desenvolvedor.
+`Att: Julino, seu aspirante à desenvolvedor`.

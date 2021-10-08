@@ -1,6 +1,6 @@
 # Flex Box
 
-Projeto desenvolvido no curso de Flex Box, ministrado por **[Karen Santos](gitlab.com/karensantos)**. É um curso magnífico, porém senti falta da aplicação dela no projeto, mesmo assim valeu muito apena porque fiquei sabendo de muita coisa que eu não sei nem conheço de **Flex Box**.
+Projeto desenvolvido no curso de Flex Box, ministrado por **[Karen Santos](gitlab.com/karensantos/project-flexbox-dio)**. É um curso magnífico, porém senti falta da aplicação dela no projeto, mesmo assim valeu muito apena porque fiquei sabendo de muita coisa que eu não sei nem conheço de **Flex Box**.
 
 Segue uma imagem do mais ou menos de como fica o projeto:
 ![Layout](./index.html.png)
